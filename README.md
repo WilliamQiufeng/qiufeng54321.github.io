@@ -2,4 +2,4 @@
 **WELCOME TO Qiufeng54321's website!**
 # hi
 --------
-www.baidu.com[baidu]
+[baidu](www.baidu.com)
