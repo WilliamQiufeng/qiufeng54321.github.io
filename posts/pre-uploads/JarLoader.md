@@ -19,7 +19,10 @@ on `Android`:
 - push .class files into .dex file
 - load .dex file
   
-
+```mermaid
+graph TB
+Input-->Platform
+```
   
 ## Feature
 1. use en/decryption for .class files to increase security.
