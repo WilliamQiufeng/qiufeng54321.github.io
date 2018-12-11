@@ -3,10 +3,10 @@
 but needs a special support which is included in this project.
 ## How it works
 ### Compile
-+ compile java files to .class files
++ compile java files to .class files  
 ### Build
 - encrypt .class files with custom key
-+ push encrypted .class files into a jar file.
++ push encrypted .class files into a jar file.  
 ### Load
 on `Win/Linux`:
 + pull out .class files
