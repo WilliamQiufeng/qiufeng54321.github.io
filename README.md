@@ -1,5 +1,4 @@
 
-**WELCOME TO Qiufeng54321's website!**
-# hi
+# **WELCOME TO Qiufeng54321's website!**
 --------
-[baidu](https://qiufeng54321.github.io/posts/Main)
+[Check out my blogs](https://qiufeng54321.github.io/posts/Main)
