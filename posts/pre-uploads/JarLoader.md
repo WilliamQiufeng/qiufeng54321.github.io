@@ -19,18 +19,7 @@ on `Android`:
 - push .class files into .dex file
 - load .dex file
   
-```flow
-  lst=>start: load
-  le=>end: load jar/dex
-  in=>io: input jar
-  cand=>condition: Win/Android?
-  unzip=>io: unzip jar file
-  decode=>operation: decrypt .class files
-  dex=>operation: dex-ify jar file
-  lst->in->cand
-  cand(Win/Linux)->decode->le
-  cand(Android)->unzip->decode->dex->le
-```
+
   
 ## Feature
 1. use en/decryption for .class files to increase security.
