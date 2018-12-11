@@ -11,7 +11,8 @@ but needs a special support which is included in this project.
 on `Win/Linux`:
 + pull out .class files
 + decrypt .class files
-+ load the .class files into VM
++ load the .class files into VM  
+
 on `Android`:
 - pull out .class files
 - decrypt .class files
