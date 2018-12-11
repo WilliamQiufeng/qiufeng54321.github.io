@@ -8,11 +8,11 @@ but needs a special support which is included in this project.
 - encrypt .class files with custom key
 + push encrypted .class files into a jar file.
 ### Load
-#### Win/Linux
+on `Win/Linux`:
 + pull out .class files
 + decrypt .class files
 + load the .class files into VM
-#### Android
+on `Android`:
 - pull out .class files
 - decrypt .class files
 - push .class files into .dex file
