@@ -3,20 +3,20 @@
 but needs a special support which is included in this project.
 ## How it works
 ### Compile
-1. compile java files to .class files
++ compile java files to .class files
 ### Build
-1. encrypt .class files with custom key
-2. push encrypted .class files into a jar file.
+- encrypt .class files with custom key
++ push encrypted .class files into a jar file.
 ### Load
 #### Win/Linux
-1. pull out .class files
-2. decrypt .class files
-3. load the .class files into VM
++ pull out .class files
++ decrypt .class files
++ load the .class files into VM
 #### Android
-1. pull out .class files
-2. decrypt .class files
-3. push .class files into .dex file
-4. load .dex file
+- pull out .class files
+- decrypt .class files
+- push .class files into .dex file
+- load .dex file
 
 ## Feature
 1. use en/decryption for .class files to increase security.
