@@ -1,10 +1,10 @@
-<font face="Monospace" color=#0099ff>Melatonin</font>  
+# Melatonin
 --------
 ## Introduction  
 ### **What is *Melatonin*?**
 - `Melatonin` is a hormone, produced by the pineal gland among other locations, which regulates wakefulness.
-- **Melatonin** is Produced by `Pineal gland`
-## History
+- **Melatonin** is Produced by `Pineal gland`  
+## History  
 &emsp;&emsp;Melatonin was first discovered in connection to the mechanism by which some amphibians and reptiles change the color of their skin. As early as 1917, Carey Pratt McCord and Floyd P. Allen discovered that feeding extract of the pineal glands of cows lightened tadpole skin by contracting the dark epidermal melanophores.
   
 &emsp;&emsp;In 1958, dermatology professor Aaron B. Lerner and colleagues at Yale University, in the hope that a substance from the pineal might be useful in treating skin diseases, isolated the hormone from bovine pineal gland extracts and named it melatonin. In the mid-70s Lynch et al. demonstrated that the production of melatonin exhibits a circadian rhythm in human pineal glands.
