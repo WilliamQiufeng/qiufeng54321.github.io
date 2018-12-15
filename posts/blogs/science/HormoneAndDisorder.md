@@ -9,17 +9,19 @@
   
   
 ## History  
-&emsp;&emsp;Melatonin was first discovered in connection to the mechanism by which some amphibians and reptiles change the color of their skin. As early as 1917, Carey Pratt McCord and Floyd P. Allen discovered that feeding extract of the pineal glands of cows lightened tadpole skin by contracting the dark epidermal melanophores.
+&emsp;&emsp;**Melatonin was first discovered in connection to the mechanism by which some amphibians and reptiles change the color of their skin. As early as 1917, Carey Pratt McCord and Floyd P. Allen discovered that feeding extract of the pineal glands of cows lightened tadpole skin by contracting the dark epidermal melanophores.**
   
-&emsp;&emsp;In 1958, dermatology professor Aaron B. Lerner and colleagues at Yale University, in the hope that a substance from the pineal might be useful in treating skin diseases, isolated the hormone from bovine pineal gland extracts and named it melatonin. In the mid-70s Lynch et al. demonstrated that the production of melatonin exhibits a circadian rhythm in human pineal glands.
+&emsp;&emsp;**In 1958, dermatology professor Aaron B. Lerner and colleagues at Yale University, in the hope that a substance from the pineal might be useful in treating skin diseases, isolated the hormone from bovine pineal gland extracts and named it melatonin. In the mid-70s Lynch et al. demonstrated that the production of melatonin exhibits a circadian rhythm in human pineal glands.**
   
-&emsp;&emsp;The discovery that melatonin is an antioxidant was made in 1993. The first patent for its use as a low-dose sleep aid was granted to Richard Wurtman at MIT in 1995. Around the same time, the hormone got a lot of press as a possible treatment for many illnesses. The New England Journal of Medicine editorialized in 2000: "With these recent careful and precise observations in blind persons, the true potential of melatonin is becoming evident, and the importance of the timing of treatment is becoming clear."  
+&emsp;&emsp;**The discovery that melatonin is an antioxidant was made in 1993. The first patent for its use as a low-dose sleep aid was granted to Richard Wurtman at MIT in 1995. Around the same time, the hormone got a lot of press as a possible treatment for many illnesses. The New England Journal of Medicine editorialized in 2000: "With these recent careful and precise observations in blind persons, the true potential of melatonin is becoming evident, and the importance of the timing of treatment is becoming clear."**  
 
 ----------
-## Function
+## Function  
 &emsp;&emsp;`Melatonin` regulates **`wake`/`sleep`** patterns. 
   
 ## Medicine Use  
+  
+![Melatonin as medicine](https://qiufeng54321.github.io/assets/melatoninMedicine.jpg)  
   
 &emsp;&emsp;`Melatonin` is often used as a type of medicine which stops people from awakening at night.This is because **Melatonin** controls people's sleep patterns.People who stays awaken at night is loss of **Melatonin**.Medicine puts in **Melatonin** so it finally let you sleep.  
   
