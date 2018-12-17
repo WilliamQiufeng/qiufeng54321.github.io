@@ -5,7 +5,7 @@
 - `Melatonin` is a hormone, produced by the pineal gland among other locations, which regulates wakefulness.
 - **Melatonin** is Produced by `Pineal gland`  
 
-<img src="https://qiufeng54321.github.io/assets/melatonin1.jpg" width="150%" height="150%"/>  
+![melatonin](https://qiufeng54321.github.io/assets/melatonin1.jpg)  
   
   
 ## History  
