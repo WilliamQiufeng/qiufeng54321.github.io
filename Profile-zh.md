@@ -16,7 +16,7 @@
 
 我在这里安利朋友们的网站:3  
 
-+ [tanpero](https://tanpero.github.com)  
++ [tanpero](https://tanpero.github.io)  
 
    tanpero是个很好的程序员。我对她的编程能力感到惊讶，因为她只有13岁。  
 
