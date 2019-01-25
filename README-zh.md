@@ -7,6 +7,7 @@
 ## 我的。。。  
 我的[Github主页](https://github.com/qiufeng54321)  
 我的邮箱:[williamcraft@163.com](mailto:williamcraft@163.com)  
+我的QQ:[2710923955](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2710923955&website=www.oicqzone.com)  
 
 ### 来到这里，就在在这个网站里尽情撒欢吧(雾)！  
 
