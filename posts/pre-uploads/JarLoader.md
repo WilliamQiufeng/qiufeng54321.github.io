@@ -37,7 +37,7 @@ JavaCompiler.compile([input file],[lib file],[output dir]);
 ### Load
 If you are on Win/Linux:
 ```java
-JarLoader jl=new JarLoader([jar InputStream]);
+JarLoader jl = new JarLoader([jar InputStream]);
 jl.load("class name");
 jl.loadAll();
 ```
@@ -45,9 +45,9 @@ If you are on Android,use _AndroidJarLoader_ insdead.
 ### Build
 `AndroidJarBuilder` actually does not behave differently as `JarBuilder` except it adds a MANIFEST\.MF.I will remove this soon.
 ```java
-JarBuilder jb=new JarBuilder([output]);
-jb.write("path","data here".getBytes());
-jb.close();
+JarBuilder builder = new JarBuilder([output]);
+builder.write("path","data here".getBytes());
+builder.close();
 ```
 or `JarFileBuilder`
 ```java
