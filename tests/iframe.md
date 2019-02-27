@@ -4,3 +4,4 @@
 <script>
   alert("hi")
 </script>
+<button>btn</button>
