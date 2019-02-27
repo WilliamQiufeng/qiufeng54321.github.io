@@ -1,7 +1,7 @@
 # <center>WELCOME TO Qiufeng54321's website!</center>
   
 --------  
-<font size=25 face=monospace>This is My own website.Have fun&Enjoy!:D</font>  
+### <center>This is My own website.Have fun&Enjoy!:D</center>  
 [Check out my blogs](https://qiufeng54321.github.io/posts/Main)  
 [My Profile](https://qiufeng54321.github.io/Profile)
   
