@@ -7,4 +7,4 @@
 <script>
   alert("hi")
 </script>
-<button class="flat">btn</button>
+<button class="flat" onclick="alert('hello world')">btn</button>
