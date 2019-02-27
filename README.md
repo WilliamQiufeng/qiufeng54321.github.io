@@ -1,4 +1,4 @@
-<center><font size=30>WELCOME TO Qiufeng54321's website!</font></center>
+<font size=35><center>WELCOME TO Qiufeng54321's website!</center></font>
   
 --------  
 This is My own website.Have fun&Enjoy!:D  
