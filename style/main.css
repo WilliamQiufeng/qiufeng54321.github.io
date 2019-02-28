@@ -1,4 +1,7 @@
-
+body {
+  background-image:url(/assets/);
+  background-repeat:no-repeat;
+}
 .flat{
   display:block;
   line-height:52px;
