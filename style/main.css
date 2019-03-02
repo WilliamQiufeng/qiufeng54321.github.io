@@ -1,10 +1,7 @@
-body {
-  background-image:url(/assets/u=3010794464,2930338545&fm=26&gp=0.jpg);
-  background-repeat:no-repeat;
-  background-size:100% 100%;
-}
 .flat{
   display:block;
+  width:202px;
+  height:52px;
   line-height:52px;
   text-align:center;
   font-family:arial,verdana,monospace, '新宋体';
