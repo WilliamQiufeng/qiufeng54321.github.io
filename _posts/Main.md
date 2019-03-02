@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Main"
+date: 2019-03-01
+excerpt: "main index"
+tags: [index]
+comments: true
+---
 # Main Page
 ----------
 Welcome to My Blog!
