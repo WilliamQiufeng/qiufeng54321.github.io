@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "JavaCompiler"
 date: 2019-03-01
 excerpt: "An android app which compiles java files"
