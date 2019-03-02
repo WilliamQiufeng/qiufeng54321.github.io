@@ -1,3 +1,11 @@
+---
+layout: post
+title: "JavaCompiler"
+date: 2019-03-01
+excerpt: "An android app which compiles java files"
+tags: [project]
+comments: true
+---
 # JavaCompiler
 --------
   `JavaCompiler` is an Android App which converts .java files into .class files.  
