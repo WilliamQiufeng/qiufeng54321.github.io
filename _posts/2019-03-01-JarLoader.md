@@ -1,3 +1,11 @@
+---
+layout: post
+title: "JarLoader"
+date: 2019-03-01
+excerpt: "A Jar Loader For Android."
+tags: [preupload]
+comments: true
+---
 # JarLoader  
   *JarLoader* is a repository that builds a jar file and loads it to the VM.It supports all the platforms.Even on android it works properly,
 but needs a special support which is included in this project.
