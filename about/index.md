@@ -1,11 +1,27 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about]
+date: 2019-03-01
 comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Qiufeng54321</b></a> </center>
 
+# My profile
+--------
+### **William Ye**  
+age 12  
+  
+I am a Chinese Student who likes programming.  
+I am good at Java,Javascript And Python programming.  
+### contact me
+**my email** : <williamcraft@163.com>  
 
+
+## Suggest  
+&emsp;&emsp;I'd like to suggest my friends' website here :3  
++ [tanpero](https://tanpero.github.io)  
+She's a good programmer(I am very suprised cuz she is only 13 but she programs way better than me :O)  
+And also,check out her repositories.Her project ***MomentPlus*** is under development.It's a good project.  
+###### ((And also,Watch&star her repos to let her be busy xD
