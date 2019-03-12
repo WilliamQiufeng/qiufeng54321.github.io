@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LeafLang Compiler"
-date: 2019-3-10
+date: 2019-3-12
 excerpt: "LeafLang Compiler docs and how it does."
 tags: [project,language,compiler]
 comments: true
@@ -109,7 +109,5 @@ var b=11;
 a=b;
 ```
 
-Result:
-
-![/assets/LeafLangCompilerPreview1.jpeg](Result)
+![Result](/assets/LeafLangCompilerPreview1.jpeg)
 
