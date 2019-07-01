@@ -43,8 +43,8 @@ comments: true
       success: function (data){
             var diagram = flowchart.parse(data);
             diagram.drawSVG('diagram', {
-                              'maxWidth': 50,
-                              'maxHeight': 50
+                              'maxWidth': 45,
+                              'maxHeight': 25
             });
       }
   });</script>
