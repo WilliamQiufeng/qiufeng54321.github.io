@@ -9,7 +9,7 @@ comments: true
 
 <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"> </script>
 
-<script src="https://raw.githubusercontent.com/adrai/flowchart.js/master/release/flowchart.min.js"> </script>
+<script src="/assets/flowchart.min.js"> </script>
 
 # LR Parser
 
