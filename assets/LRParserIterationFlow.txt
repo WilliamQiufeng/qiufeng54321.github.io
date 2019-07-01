@@ -1,37 +1,3 @@
----
-layout: post
-title: "LR Parser"
-date: 2019-3-10
-excerpt: "Just a note about what I've just learnt in case I forget"
-tags: [parser,note]
-comments: true
----
-
-<script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"> </script>
-
-<script src="https://raw.githubusercontent.com/adrai/flowchart.js/master/release/flowchart.min.js"> </script>
-
-# LR Parser
-
-首先，LR Parser的实现需要一个Action Table和Goto Table。这两个表每个的行数都代表一个**状态**
-
-示例：
-
-假设有以下语法：
-
-> (1) S -> AA
->
-> (2) A -> aA
->
-> (3) A -> b
-
-<div id="diagram"></div>
-<script>
-  var diagram = flowchart.parse("/assets/LRParserIterationFlow.txt");
-  diagram.drawSVG('diagram');
-</script>
-
-```flow
 st=>start: Start
 
 
@@ -79,11 +45,3 @@ shift the dot(right)->dulplicate in other
 dulplicate in other(yes, left)->connect to the dulplicate one
 dulplicate in other(no, right)->the current symbol is a rule
 connect to the dulplicate one(right)->the current symbol is a rule
-```
-
-## Create the parse table
-
-```flow
-st=>start: Start from the root node
-```
-
