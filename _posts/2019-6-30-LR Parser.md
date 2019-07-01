@@ -7,13 +7,17 @@ tags: [parser,note]
 comments: true
 ---
 
+<script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"> </script>
+
+<script src="https://raw.githubusercontent.com/adrai/flowchart.js/master/release/flowchart.min.js"> </script>
+
 # LR Parser
 
 首先，LR Parser的实现需要一个Action Table和Goto Table。这两个表每个的行数都代表一个**状态**
 
 示例：
 
-假设有一下语法：
+假设有以下语法：
 
 > (1) S -> AA
 >
