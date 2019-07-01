@@ -27,15 +27,14 @@ comments: true
 
 <div id="diagram"></div>
 <script>
-  var flowRead = ""
   $.ajax({
       url: "/assets/LRParserIterationFlow.txt",
       success: function (data){
-            flowRead = data;
+            var diagram = flowchart.parse(data);
+            diagram.drawSVG('diagram');
       }
   });
-  var diagram = flowchart.parse(flowRead);
-  diagram.drawSVG('diagram');
+  
 </script>
 
 ```flow
