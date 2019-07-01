@@ -42,7 +42,10 @@ comments: true
       url: "/assets/LRParserIterationFlow.txt",
       success: function (data){
             var diagram = flowchart.parse(data);
-            diagram.drawSVG('diagram');
+            diagram.drawSVG('diagram', {
+                              'width': 500,
+                              'height': 500
+            });
       }
   });
 </script>
