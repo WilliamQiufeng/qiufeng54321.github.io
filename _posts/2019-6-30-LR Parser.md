@@ -8,18 +8,12 @@ comments: true
 ---
 
 <script src="/assets/raphael-min.js"> </script>
-
 <script src="/assets/flowchart.min.js"> </script>
-
 <script src="https://qiufeng54321.github.io/assets/js/jquery-1.12.0.min.js"></script>
 <script src="https://qiufeng54321.github.io/assets/js/jquery.dlmenu.min.js"></script>
-
 <script src="https://qiufeng54321.github.io/assets/js/jquery.goup.min.js"></script>
-
 <script src="https://qiufeng54321.github.io/assets/js/jquery.magnific-popup.min.js"></script>
-
 <script src="https://qiufeng54321.github.io/assets/js/jquery.fitvid.min.js"></script>
-
 
 
 # LR Parser
