@@ -24,6 +24,8 @@ Just open `FileWaveClient_13.3.1-mdm.ulinkedu.com-15-Jul-2020` and follow instru
 
 ## Uninstallation
 
+***Note* that methods below might have some vulnerabilities. *Use them at your own risk.***
+
 ### Some common actions
 
 `Unlock`: Sometimes a lock icon appears and is needed to be unlocked by clicking on the icon and inputting the password of the current user.
@@ -67,3 +69,41 @@ Just open `FileWaveClient_13.3.1-mdm.ulinkedu.com-15-Jul-2020` and follow instru
     + Do `profiles remove -identity="{Paste here}"`
 + Log out and login to your own account.
 
+## Alternative way 1 - Reinstall system (past method)
+
+Restart your computer. Hold `Command + R` as soon as the apple logo appears. Click the second button(`Reinstall macOS...`)
+
+After reinstallation, go to `System Preferences` and delete the profile.
+
+Some will notice that when trying to run some command line commands an error related to `xcrun` occurs. Do
+```
+xcode-select --install
+```
+and the problem should be solved.
+
+## Alternative way 2 - Command line (not tested)
+
+Open `Terminal` and do these commands:
+(This script will enable root user and log you out from your current user)
+
+```bash
+echo Enabling root user...
+dsenableroot
+# sudo /usr/bin/dscl . -delete "/Users/ulinkadmin"
+# sudo /usr/bin/dscl . -delete "/Users/Ulink Admin"
+echo Please login with username 'root'
+echo "Logging out in 10 seconds"
+echo "If you don't want to logout now, press control + c or <^C>"
+sleep 10
+logout
+```
+
+After login open `Terminal` and do these commands:
+
+```bash
+profiles list
+```
+Copy identity (from `apple...` to `...ff51e`)
+```bash
+profiles remove -identity="Paste id here"
+```
