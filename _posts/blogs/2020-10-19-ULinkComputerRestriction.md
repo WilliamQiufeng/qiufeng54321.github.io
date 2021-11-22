@@ -50,6 +50,9 @@ Just open `FileWaveClient_13.3.1-mdm.ulinkedu.com-15-Jul-2020` and follow instru
     + Search for `ulink`
     + You may see the name `Ulink Admin` or `ulinkadmin`
     + Delete it
+    + Go `Viewing` and search for `administrators`
+    + Expand 'Group Membership'
+    + Delete 'ulinkadmin' record
   + Step 2:
     + Go to `Menu bar -> Edit -> Enable Root User`
     + Type a password and `Enter`
